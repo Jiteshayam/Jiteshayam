@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiteshayam
 - 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...DSA
+- 🌱 I’m currently learning ... APP DEVELOPENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...iamjitesh21@gmail.com
 
