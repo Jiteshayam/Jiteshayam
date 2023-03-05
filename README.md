@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiteshayam
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ... APP DEVELOPENT
+- 👀 I’m interested in ...Machine Learning, AI
+- 🌱 I’m currently learning ... Web Development using Django (Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...iamjitesh21@gmail.com
 
