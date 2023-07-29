@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jitesh Ayam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **some Mini project**
+
 - 🌱 I’m currently learning **Full stack Web Development**
+
+- 👯 I’m looking to collaborate on **project related to web development**
+
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **iamjitesh21@gmail.com**
 
